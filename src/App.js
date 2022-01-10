@@ -19,7 +19,7 @@ function App() {
           <Link sx={{
               margin: '0px 20px'
             }}>
-            <Themed.a href='https://atlasdao.notion.site/atlasdao/Atlas-DAO-735eff68bd2d4e4d8b2047a5a9d76a86'>
+            <Themed.a href='https://atlasdao.notion.site/atlasdao/Atlas-DAO-735eff68bd2d4e4d8b2047a5a9d76a86' target="_blank">
                 📓 Manifesto
             </Themed.a>
           </Link>
@@ -27,7 +27,7 @@ function App() {
           <Link sx={{
               margin: '0px 20px'
             }}>
-            <Themed.a href='https://discord.gg/DhEkPAQd'>
+            <Themed.a href='https://discord.gg/DhEkPAQd' target="_blank">
               💬 Discord
             </Themed.a>
           </Link>
