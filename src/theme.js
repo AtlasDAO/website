@@ -7,11 +7,11 @@ export default {
   },
   breakpoints: ['40em', '52em', '64em'],
   fontSizes: [
-    12, 14, 16, 20, 24, 32, 48, 64, 84
+    12, 14, 16, 20, 24, 32, 48, 64, 84, 104
   ],
   styles: {
     h1: {
-      fontSize: [6, 7, 8],
+      fontSize: [7, 8, 9],
       fontFamily: 'Arial, system-ui',
       margin: '10px 10px'
     },
