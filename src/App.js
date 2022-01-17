@@ -10,6 +10,11 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <Header>
+      <Flex sx={{width: '100%', justifyContent: 'center'}}>
+          <Themed.h1>
+            (🌎, 🌎)
+          </Themed.h1>
+        </Flex>
         <Flex sx={{width: '100%', justifyContent: 'center'}}>
           <Themed.h1>
             Atlas DAO
